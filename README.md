@@ -23,10 +23,3 @@
 
   
 
-# <p align="center" style="color:#cb3349" > [مــطــور ســورس](https://telegram.me/sajad14p) <br>
-
-  
-
-  
-
-# <p align="center" style="color:#cb3349" > [كـــروب خــاص لــمـطـوريـن](https://telegram.me/BOAKIY) <br>
