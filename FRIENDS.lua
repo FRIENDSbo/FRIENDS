@@ -812,7 +812,7 @@ send(msg.chat_id_, msg.id_,'📫¦ تم حذف كليشه ستارت')
 end
 if text == 'تحديث السورس ™' and SudoBot(msg) then 
 os.execute('rm -rf FRIENDS.lua')
-os.execute('wget https://raw.githubusercontent.com/FRIENDSBOT/FRIENDS/master/FRIENDS.lua')
+os.execute('wget https://raw.githubusercontent.com/FRIENDSbo/FRIENDSmaster/FRIENDS.lua')
 send(msg.chat_id_, msg.id_,'♻¦ تم تحديث السورس') 
 dofile('FRIENDS.lua')  
 end
@@ -1980,7 +1980,7 @@ end
 return false
 end
 os.execute('rm -rf FRIENDS.lua')
-os.execute('wget https://raw.githubusercontent.com/FRIENDSBOT/FRIENDS/master/FRIENDS.lua')
+os.execute('wget https://raw.githubusercontent.com/FRIENDSbo/FRIENDSmaster/FRIENDS.lua')
 send(msg.chat_id_, msg.id_,'♻¦ تم تحديث السورس') 
 dofile('FRIENDS.lua')  
 end
@@ -8260,8 +8260,7 @@ Text_Games = [[
 🎮╝  ← { لعبه المعاني } 
 ء➖➖➖➖➖➖™
 ⚖¦ ݪݪـﻤزيد م̷ـــن آݪمعـݪومـآت اشـتـرك
-⚖¦ قـنـاه السـورس ↓
-⚖¦ م •⊱ : @O0_O4  ⊰• √
+🔖¦ CH ➥ [FRIENDS](t.me/O0_O4)
 ]]
 send(msg.chat_id_, msg.id_,Text_Games) 
 end
